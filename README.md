@@ -9,7 +9,7 @@ To run any solution locally, ensure you have the .NET SDK installed on your mach
    ```sh
    git clone https://github.com/yourusername/LeetCode-Solutions.git
    cd LeetCode-Solutions
-2. Compile and run the C# file using the .NET CLI:
-    ```sh
-   dotnet run <FileName>.cs
+2. In the Program.cs method, call any solution, for example 
+    ```cs
+    Console.WriteLine(_7_Reverse_integer.reverse(-12520));      
 Make sure to replace <FileName> with the actual file name, e.g., 001_TwoSum.cs.
