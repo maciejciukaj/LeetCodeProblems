@@ -12,4 +12,4 @@ To run any solution locally, ensure you have the .NET SDK installed on your mach
 2. In the Program.cs method, call any solution, for example 
     ```cs
     Console.WriteLine(_7_Reverse_integer.reverse(-12520));      
-Make sure to replace <FileName> with the actual file name, e.g., 001_TwoSum.cs.
+
