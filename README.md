@@ -7,7 +7,7 @@ To run any solution locally, ensure you have the .NET SDK installed on your mach
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/LeetCode-Solutions.git
+   git clone https://github.com/maciejciukaj/LeetCodeProblems.git
    cd LeetCode-Solutions
 2. In the Program.cs method, call any solution, for example 
     ```cs
