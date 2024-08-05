@@ -1,4 +1,5 @@
-﻿namespace LeetCodeLearning
+﻿//https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/description/
+namespace LeetCodeLearning
 {
     public class _1508_Range_sum_of_sorted_subarray_sums
     {

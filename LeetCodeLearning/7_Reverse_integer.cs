@@ -1,4 +1,5 @@
-﻿namespace LeetCodeLearning
+﻿//https://leetcode.com/problems/reverse-integer/description/
+namespace LeetCodeLearning
 {
     public class _7_Reverse_integer
     {

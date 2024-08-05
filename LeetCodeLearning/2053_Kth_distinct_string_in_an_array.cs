@@ -1,4 +1,5 @@
-﻿namespace LeetCodeLearning
+﻿//https://leetcode.com/problems/kth-distinct-string-in-an-array/description/
+namespace LeetCodeLearning
 {
     internal class _2053_Kth_distinct_string_in_an_array
     {

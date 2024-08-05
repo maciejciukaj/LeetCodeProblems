@@ -1,4 +1,5 @@
-﻿namespace LeetCodeLearning
+﻿//https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/
+namespace LeetCodeLearning
 {
     public class _1460_Make_two_arrays_equal_by_reversing_subarrays
     {
