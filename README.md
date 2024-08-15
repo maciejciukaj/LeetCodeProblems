@@ -1,6 +1,6 @@
 # LeetCode Problems 🤔🤯
 
-This repository serves as a collection of my solutions to problems available on [LeetCode](https://leetcode.com/problemset/). Each solution is implemented in C# and has been tested against the test cases on LeetCode to ensure correctness. I have made an effort to optimize the code to minimize memory usage and achieve the lowest possible execution time. 
+This repository serves as a collection of my solutions to problems available on [LeetCode](https://leetcode.com/problemset/). Each solution is implemented in C# and has been tested against the test cases on LeetCode to ensure correctness. I have made an effort to optimize the code to minimize memory usage and achieve a low execution time. 
 The problem numbering in the file names corresponds to the numbering on the LeetCode website.
 
 To run any solution locally, ensure you have the .NET SDK installed on your machine. Follow the steps below to run a solution:
